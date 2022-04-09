@@ -25,6 +25,9 @@ margin-top: 5px;
 .product-details{
     margin:0 14px;
 }
+.product-details p{
+    margin-top:5px;
+}
 .button-cart{
     width: 100%;
     background: #FFE0B3;
