@@ -46,3 +46,6 @@ margin-top: 5px;
 .button-cart .btn-text{
     margin-right: 5px;
 }
+.cart-container{
+    background-color: rgba(255, 153, 0, 0.3);
+}
